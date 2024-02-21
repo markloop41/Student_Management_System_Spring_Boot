@@ -1,1 +1,1 @@
-# Student-Management-System-Spring-Boot
+# Student_Management_System_Spring_Boot
